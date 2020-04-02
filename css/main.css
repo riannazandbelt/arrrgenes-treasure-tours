@@ -56,6 +56,7 @@ a:focus {
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #000;
 }
 
 .card {
